@@ -13,7 +13,7 @@
 
 | Home Screen | Tambah Jurnal | Detail Jurnal |
 |:-----------:|:-------------:|:--------------:|
-| ![Home](screenshots/home.png) | ![Download](screenshots/download.png) | ![Aplikasi](screenshots/aplikasi.png) |
+| ![Home](screenshots/home.jpeg) | ![Tambah](screenshots/download.jpeg) | ![Detail](screenshots/aplikasi.jpeg) |
 
 ---
 
