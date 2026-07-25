@@ -13,7 +13,7 @@
 
 | Home Screen | Tambah Jurnal | Detail Jurnal |
 |:-----------:|:-------------:|:--------------:|
-| ![Home](screenshots/home.jpeg) | ![Tambah](screenshots/download.jpeg) | ![Detail](screenshots/aplikasi.jpeg) |
+| ![Home](assets/home.jpeg) | ![Tambah](assets/download.jpeg) | ![Detail](assets/aplikasi.jpeg) |
 
 ---
 
@@ -62,7 +62,7 @@ Scan QR Code menggunakan **Expo Go** di HP Android/iOS.
 
 ## 🎓 Info Proyek
 
-- **Nama**: [Juan Moses Tambunan] · [243303621215]
+- **Nama**: Juan Moses Tambunan · 243303621215
 - **Mata Kuliah**: Praktek Pemrograman Mobile (React Native) — Universitas Prima Indonesia
 - **Program Studi**: S1 Sistem Informasi
 - **Kelas**: TI-MOBILE-01 PAGI A
